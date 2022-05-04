@@ -41,7 +41,11 @@ Presentation - https://github.com/satyam-jyoti-sankar/Rossmann-Sales-Prediction-
 # Important Works/ Conclusion
 
 eveloped a regression model using Linear Regression, Lasso, Random Forest Regressor Gradient Boosting for predict the weekly sale of more than 3000 Rossmann drug stores for
-inventory management . Performed E D A to understand the trend and cyclic behavior, relation with other competitors, marketing outcomes, and sales patterns during holiday on each store. Used L1-regularization technique to remove the overfitting present in the model. Evaluated algorithms such as Linear Regression, Lasso Regression, Xg Boost and Random Forest
+inventory management . 
+
+Performed E D A to understand the trend and cyclic behavior, relation with other competitors, marketing outcomes, and sales patterns during holiday on each store. Used L1-regularization technique to remove the overfitting present in the model. 
+
+Evaluated algorithms such as Linear Regression, Lasso Regression, Xg Boost and Random Forest
 Regressor and achieved the best r2 score of 93%.
 
  
