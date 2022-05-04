@@ -34,6 +34,14 @@ Most of the fields are self-explanatory. The following are descriptions for thos
 | Promo2 | Promo2 is a continuing and consecutive promotion for some stores: 0 = store is not participating, 1 = store is participating |
 | Promo2Since[Year/Week] | describes the year and calendar week when the store started participating in Promo2 |
 | PromoInterval | describes the consecutive intervals Promo2 is started, naming the months the promotion is started anew. E.g. "Feb,May,Aug,Nov" means each round starts in February, May, August, November of any given year for that store |
+# Approach and Presentation.
+Final Notebook- https://github.com/satyam-jyoti-sankar/Rossmann-Sales-Prediction-/blob/main/Rossmann_Sales_Prediction_Capstone_Project.ipynb
 
+Presentation - https://github.com/satyam-jyoti-sankar/Rossmann-Sales-Prediction-/blob/main/Project%20Presentation.pptx
+# Important Works/ Conclusion
+
+eveloped a regression model using Linear Regression, Lasso, Random Forest Regressor Gradient Boosting for predict the weekly sale of more than 3000 Rossmann drug stores for
+inventory management . Performed E D A to understand the trend and cyclic behavior, relation with other competitors, marketing outcomes, and sales patterns during holiday on each store. Used L1-regularization technique to remove the overfitting present in the model. Evaluated algorithms such as Linear Regression, Lasso Regression, Xg Boost and Random Forest
+Regressor and achieved the best r2 score of 93%.
 
  
